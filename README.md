@@ -8,7 +8,7 @@ Components
   
   -(If we dont use FC listed above we need ESC's)https://www.racedayquads.com/products/emax-eco-ii-2306-2400kv-motor?keyword=emax%20eco%20ii&aff=58 
   
-  -(If we need to controler by remote controll) https://pyrodrone.com/products/jhemcu-25-600mw-5-8ghz-mmcx-vtx-w-irc-tramp-20x20mm 
+  -(If we need an fpv camera on board) https://pyrodrone.com/products/jhemcu-25-600mw-5-8ghz-mmcx-vtx-w-irc-tramp-20x20mm 
   
   -(If we need to controler by remote controll) https://www.racedayquads.com/products/betafpv-elrs-lite-2-4ghz-receiver?variant=39767945576561&aff=58
   
